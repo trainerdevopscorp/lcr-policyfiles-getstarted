@@ -1,0 +1,2 @@
+['hardening']['greeting']="Hello World"
+
