@@ -1,5 +1,5 @@
 package "rsyslog"
-package "auditd"
+package "audit"
 
 cookbook_file "/etc/audit/auditd.conf" do
   source "auditd.conf"
